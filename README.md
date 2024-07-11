@@ -1,4 +1,4 @@
-# blog-feedback
+# ormcamp-blog-feedback
 
 ## 👋 오름캠프 블로그 피드백을 위한 Repository입니다!
 블로그 세미나 듣고 훈련생 동료간 피드백을 진행해보려고 합니다. 글쓰기 훈련을 위한 목적입니다.
